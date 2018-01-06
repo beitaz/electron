@@ -2,3 +2,14 @@ language: node_js
 node_js:
   - "iojs"
   - "8"
+
+before_install:
+  - nvm install 8.9.4
+  - nvm use 8
+
+# cache:
+#   directories:
+#     - "node_modules"
+
+install:
+  - npm install
