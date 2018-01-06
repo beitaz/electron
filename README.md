@@ -1,6 +1,8 @@
 # Electron React
 #### This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/beitaz/electron.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/beitaz/electron.svg?branch=master)](https://travis-ci.org/beitaz/electron)
 
 Below you will find some information on how to perform common tasks.<br>
